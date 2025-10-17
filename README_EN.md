@@ -4,7 +4,7 @@
   <a href="README_RU.md"><img src="https://flagcdn.com/40x30/ru.png" alt="Русский" /></a> 
 </p>
 
-🌐 Language / Язык
+🌐 Language
 ![English version](https://flagcdn.com/32x24/us.png)
 ---
 
