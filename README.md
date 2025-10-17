@@ -38,7 +38,7 @@ pip install customtkinter pillow
 ### 2️⃣ Склонируйте репозиторий
 
 ```bash
-git clone https://github.com/michytka22/project.git
+git clone https://github.com/michytka22/Decimal-Base-Converter.git
 cd calculator-base-converter
 ```
 
