@@ -5,7 +5,7 @@
 </p>
 
 🌐 Language / Язык
-![English version](https://flagcdn.com/w20/us.png)
+![English version](https://flagcdn.com/32x24/us.png)
 ---
 
 
