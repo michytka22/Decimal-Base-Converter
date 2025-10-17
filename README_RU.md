@@ -1,5 +1,13 @@
 
+<p align="center">
+  <b>🌐 Choose Language / Выберите язык</b><br><br>
+  <a href="README_RU.md"><img src="https://flagcdn.com/w40/ru.png" alt="Русский" /></a> |
+  <a href="README_EN.md"><img src="https://flagcdn.com/w40/us.png" alt="English" /></a>
+</p>
 
+🌐 Language / Язык
+![Русская версия](https://flagcdn.com/w20/ru.png)
+----
 # 🔢 Конвертер систем счисления (Decimal Base Converter)
 
 Простое и стильное приложение на **Python (Tkinter + CustomTkinter)**, позволяющее переводить числа из **десятичной системы счисления** в любую другую — от **2 до 16**.  
@@ -88,8 +96,8 @@ calculator-base-converter/
 
 ## 👨‍💻 Автор
 
-* 👤 michytka22
+* 👤 **michytka22**
 * 🌐 GitHub: [github.com/твое_имя](https://github.com/michytka22)
 
----
+
 
