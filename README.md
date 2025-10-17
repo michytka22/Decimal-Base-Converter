@@ -97,7 +97,7 @@ calculator-base-converter/
 ## 👨‍💻 Автор
 
 * 👤 **michytka22**
-* 🌐 GitHub: [github.com/твое_имя](https://github.com/michytka22)
+* 🌐 GitHub: [github.com/michytka22](https://github.com/michytka22)
 
 
 
