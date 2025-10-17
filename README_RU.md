@@ -5,7 +5,7 @@
   <a href="README_EN.md"><img src="https://flagcdn.com/40x30/us.png" alt="English" /></a> 
 </p>
 
-🌐 Language / Язык
+🌐 Язык
 ![Русская версия](https://flagcdn.com/32x24/ru.png)
 ----
 # 🔢 Конвертер систем счисления (Decimal Base Converter)
