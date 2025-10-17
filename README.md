@@ -1,7 +1,7 @@
 
 <p align="center">
   <b>🌐 Выберите язык / Choose Language</b><br><br>
-  <a href="README_RU.md"><img src="https://flagcdn.com/40x30/ru.png" alt="Русский" /></a> |
+  <a href="README.md"><img src="https://flagcdn.com/40x30/ru.png" alt="Русский" /></a> |
   <a href="README_EN.md"><img src="https://flagcdn.com/40x30/us.png" alt="English" /></a> 
 </p>
 
